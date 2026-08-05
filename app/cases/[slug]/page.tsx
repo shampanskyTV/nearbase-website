@@ -33,7 +33,7 @@ const caseStudyPages = {
     title: "Kanzlei für Verkehrsrecht",
     description: "Von Google-Seite 3 direkt auf die vorderen Plätze: Wie Unfallgeschädigte die Kanzlei heute sofort online finden.",
   },
-  handwerksbetrieb: {
+  "handwerksbetrieb": {
     label: "Handwerksbetrieb",
     title: "Handwerksbetrieb",
     description: "Unabhängig von Mundpropaganda: Wie ein Betrieb jeden Monat verlässlich 5 direkte Auftragsanfragen über die Website bekommt.",

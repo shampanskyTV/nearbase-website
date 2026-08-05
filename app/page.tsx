@@ -95,11 +95,11 @@ const referenceItems = [
   {
     src: "/marquee/steuerkanzlei.svg",
     alt: "steuerkanzlei.berlin",
-    href: "https://steuerkanzlei.berlin",
+    href: "/cases/steuerkanzlei",
   },
   {
     src: "/marquee/biofriseur.svg",
-    alt: "Naturfriseur Polke",
+    alt: "Biofriseur Köln",
     href: "/company/cases",
   },
   {
@@ -109,7 +109,7 @@ const referenceItems = [
   },
   {
     src: "/marquee/more.svg",
-    alt: "Und viele mehr ...",
+    alt: "50+ weitere Unternehmen",
     href: "/company/cases",
   },
 ];

@@ -139,7 +139,7 @@ export default async function CompanySubPage({ params }: PageProps) {
             <div className="about-story-media">
               <Image
                 src="/nearbase-ueberuns.jpg"
-                alt="Nearbase Team"
+                alt="Das Nearbase Team bei der Arbeit"
                 width={2592}
                 height={1728}
                 className="about-story-image"
