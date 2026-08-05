@@ -35,8 +35,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "physiotherapie-standorte",
   ];
 
-  const careerSlugs = ["vertriebspartner"];
-
   return [
     ...staticPages.map(({ path, priority, lastModified }) => ({
       url: `${baseUrl}${path}`,
@@ -55,12 +53,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: "2026-08-05",
       changeFrequency: "monthly" as const,
       priority: 0.6,
-    })),
-    ...careerSlugs.map((slug) => ({
-      url: `${baseUrl}/career/${slug}`,
-      lastModified: "2026-08-05",
-      changeFrequency: "monthly" as const,
-      priority: 0.5,
     })),
   ];
 }
