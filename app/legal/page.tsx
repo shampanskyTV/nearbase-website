@@ -4,7 +4,7 @@ import { FiFileText, FiShield } from "react-icons/fi";
 import PageTemplate from "../components/PageTemplate";
 
 export const metadata: Metadata = {
-  title: "Rechtliches | Nearbase",
+  title: "Rechtliches",
   description: "Alle rechtlichen Hinweise, Pflichtangaben und Datenschutzbestimmungen von Nearbase auf einen Blick.",
 };
 
